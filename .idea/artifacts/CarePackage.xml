@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CarePackage">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarePackage</output-path>
+    <root id="archive" name="CarePackage.jar">
+      <element id="module-output" name="CarePackage" />
+      <element id="library" level="module" name="Maven: net.iconictech:IconicSpigot:1.8.8-R0.2-SNAPSHOT" module-name="CarePackage" />
+      <element id="library" level="project" name="MassiveCore" />
+      <element id="file-copy" path="$PROJECT_DIR$/Mythonia-CarePackage-main/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

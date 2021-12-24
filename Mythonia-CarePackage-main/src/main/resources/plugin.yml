@@ -1,0 +1,5 @@
+name: CarePackage
+version: '${project.version}'
+main: net.mythonia.carepackage.CarePackagePlugin
+api-version: 1.17
+depend: [ MassiveCore ]
